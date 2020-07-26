@@ -1,0 +1,14 @@
+.container-header {
+  max-width: 100%;
+  background-color: #4188E9;
+  color: #FFFFFF;
+}
+
+.home-header {
+  text-align: center;
+}
+
+.home-title {
+  font-family: "Arial Black", Gadget, sans-serif;
+  letter-spacing: 0.05em;
+}

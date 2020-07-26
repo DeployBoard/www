@@ -1,0 +1,13 @@
+@import './home.css';
+
+/*
+Primary Blue Color: #4188E9
+Secondary Blue Color: #92BFF1
+Primary Green Color: #56B040
+Dark Blue Font Color: #295B9B
+Light White Font Color: #FFFFFF
+Light Background: #F6FAFE
+*/
+html {
+  background-color: #F6FAFE;
+}
